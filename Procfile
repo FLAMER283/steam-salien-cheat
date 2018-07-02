@@ -1,2 +1,2 @@
 brandon: python Brandon.py
-jc : python jc.py
+jc: python jc.py
