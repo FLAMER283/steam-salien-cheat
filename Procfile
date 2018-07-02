@@ -1,1 +1,2 @@
-worker: python saliens.py
+brandon: python Brandon.py
+jc : python jc.py
